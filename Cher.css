@@ -1,0 +1,87 @@
+.header {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#menu nav {
+	width: 100%;
+}
+
+#menu li {
+	display: inline-block;
+	background: white;
+	padding: 60px;
+}
+
+#menu ul {
+	list-style: none;
+	background: white;
+	margin-left: 0px;
+	padding:0px;
+}
+
+#menu a {
+	text-decoration: none;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 18px;
+	color: black;
+}
+.texto {
+	font-family: 'Barlow Condensed', sans-serif;
+}
+
+.blocoimagens {
+	display: flex;
+	margin-left: 30px;
+}
+
+.blococor {
+	background: #DCDCDC;
+	height:600px;
+	width: 400px;
+	margin-right: 80px;
+	margin-left: 30px;
+
+
+}
+
+.fiel {
+	margin:50px;
+}
+.traje {
+	margin: 50px;
+}
+
+.marg {
+	margin:0 10px 0 10px;
+}
+
+.texto3 {
+	font-family: 'Barlow Condensed', sans-serif;
+	margin-left: 10px;
+}
+
+.botao{
+	font-family: 'Barlow Condensed', sans-serif;
+	padding: 10px;
+	background-color: black;
+
+}
+.botao a {
+	text-decoration: none;
+	color: white;
+}
+
+.form {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 14px;
+}
+
+.footer {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 14px;
+	background-color: #A9A9A9;
+	width: 100%;
+	height: 100px;
+	top:100%;
+}
